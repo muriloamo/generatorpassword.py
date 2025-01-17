@@ -1,4 +1,4 @@
-#GERADOR DE SENHAS / PASSWORD GENERATOR
+#GERADOR DE SENHAS / PASSWORD GENERATOR - PYTHON
 import random
 minusculas = "abcdefghijklmnopqrstuvwxyz"
 maiusculas = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
